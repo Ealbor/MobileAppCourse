@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:Lab6"
+             mc:Ignorable="d"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="Lab6.MainPage"
+             Title="Simple Game Demo">
+            
+    
+    <ContentPage.Resources>
+        <Color x:Key="ButtonColor">Green</Color>
+        <Color x:Key="ButtonTextColor">White</Color>
+    </ContentPage.Resources>
+    
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="{x:Static local:SMarkupExtension.greeting}" 
+           TextColor="{StaticResource ButtonTextColor}"
+           BackgroundColor="{StaticResource ButtonColor}"
+           FontSize="{x:Static local:SMarkupExtension.fontSize}"
+           HorizontalOptions="FillAndExpand"
+               HorizontalTextAlignment="Center"
+           VerticalOptions="StartAndExpand" />
+
+        <Entry Placeholder="Enter Player Name"
+               Text="{Binding Name}"
+               FontSize="{x:Static local:SMarkupExtension.fontSize}"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               x:Name="PlayerName"></Entry>
+
+        <Label Text=""
+               TextColor="{x:Static local:SMarkupExtension.error}"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               x:Name="validation"
+            />
+
+        <Button Text="CONTINUE"
+                    Clicked="ToAct2"></Button>
+
+       
+
+    </StackLayout>
+    
+    
+
+</ContentPage>
