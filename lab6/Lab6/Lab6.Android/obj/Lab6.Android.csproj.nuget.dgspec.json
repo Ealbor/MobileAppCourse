@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj": {}
+    "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj": {
+    "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
+        "projectUniqueName": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
         "projectName": "Lab6.Android",
-        "projectPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
+        "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
         "packagesPath": "C:\\Users\\emalb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\obj\\",
+        "outputPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\Lab6.csproj": {
-                "projectPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\Lab6.csproj"
+              "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\Lab6.csproj": {
+                "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\Lab6.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\Lab6.csproj": {
+    "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\Lab6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\Lab6.csproj",
+        "projectUniqueName": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\Lab6.csproj",
         "projectName": "Lab6",
-        "projectPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\Lab6.csproj",
+        "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\Lab6.csproj",
         "packagesPath": "C:\\Users\\emalb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\obj\\",
+        "outputPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

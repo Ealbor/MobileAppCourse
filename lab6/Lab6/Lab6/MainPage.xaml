@@ -15,7 +15,7 @@
         <Color x:Key="ButtonTextColor">White</Color>
     </ContentPage.Resources>
     
-    <StackLayout>
+    <StackLayout Margin="20">
         <!-- Place new controls here -->
         <Label Text="{x:Static local:SMarkupExtension.greeting}" 
            TextColor="{StaticResource ButtonTextColor}"
@@ -24,6 +24,13 @@
            HorizontalOptions="FillAndExpand"
                HorizontalTextAlignment="Center"
            VerticalOptions="StartAndExpand" />
+
+        <Label Text="Rules: Answer the math questions. Other Player Scores will be revealed after the game ends."
+               HorizontalOptions="Start"
+               VerticalOptions="StartAndExpand"
+               FontSize="50"
+               BackgroundColor="Chartreuse"
+            />
 
         <Entry Placeholder="Enter Player Name"
                Text="{Binding Name}"

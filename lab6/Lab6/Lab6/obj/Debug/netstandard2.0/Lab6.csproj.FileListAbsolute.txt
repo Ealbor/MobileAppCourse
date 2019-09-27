@@ -16,3 +16,17 @@ C:\Users\emalb\Desktop\lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Mono.Android.dll
 C:\Users\emalb\Desktop\lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Mono.Android.pdb
 C:\Users\emalb\Desktop\lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Mono.Android.xml
 C:\Users\emalb\Desktop\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.csproj.CopyComplete
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.deps.json
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.csprojAssemblyReference.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Activity2.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\PlayerRecords.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.AssemblyInfo.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.pdb

@@ -2178,11 +2178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
+      "projectUniqueName": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
       "projectName": "Lab6.Android",
-      "projectPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
+      "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\Lab6.Android.csproj",
       "packagesPath": "C:\\Users\\emalb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6.Android\\obj\\",
+      "outputPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2203,8 +2203,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\Lab6.csproj": {
-              "projectPath": "C:\\Users\\emalb\\Desktop\\lab6\\Lab6\\Lab6\\Lab6.csproj"
+            "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\Lab6.csproj": {
+              "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\lab6\\Lab6\\Lab6\\Lab6.csproj"
             }
           }
         }
