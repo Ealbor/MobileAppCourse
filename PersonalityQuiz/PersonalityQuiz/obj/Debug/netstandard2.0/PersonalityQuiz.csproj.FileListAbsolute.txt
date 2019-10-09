@@ -1,0 +1,13 @@
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\PersonalityQuiz.csprojAssemblyReference.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\PersonalityQuiz.csproj.CoreCompileInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\PersonalityQuiz.AssemblyInfoInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\PersonalityQuiz.AssemblyInfo.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\PersonalityQuiz.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\PersonalityQuiz.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\bin\Debug\netstandard2.0\PersonalityQuiz.deps.json
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\bin\Debug\netstandard2.0\PersonalityQuiz.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\bin\Debug\netstandard2.0\PersonalityQuiz.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emalb\Desktop\Mobile Dev\MobileDevGit\MobileDev\PersonalityQuiz\PersonalityQuiz\obj\Debug\netstandard2.0\Stylesheet1.css.g.cs
