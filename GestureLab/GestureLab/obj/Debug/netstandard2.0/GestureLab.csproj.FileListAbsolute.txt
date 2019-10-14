@@ -1,0 +1,12 @@
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\GestureLab.csprojAssemblyReference.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\GestureLab.csproj.CoreCompileInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\GestureLab.AssemblyInfoInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\GestureLab.AssemblyInfo.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\bin\Debug\netstandard2.0\GestureLab.deps.json
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\bin\Debug\netstandard2.0\GestureLab.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\bin\Debug\netstandard2.0\GestureLab.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\GestureLab.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\GestureLab\GestureLab\obj\Debug\netstandard2.0\GestureLab.pdb
