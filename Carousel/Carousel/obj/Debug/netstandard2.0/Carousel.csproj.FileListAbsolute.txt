@@ -1,0 +1,17 @@
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\bin\Debug\netstandard2.0\Carousel.deps.json
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\bin\Debug\netstandard2.0\Carousel.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\bin\Debug\netstandard2.0\Carousel.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Carousel.csprojAssemblyReference.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Carousel.csproj.CoreCompileInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Carousel.AssemblyInfoInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Carousel.AssemblyInfo.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Carousel.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\Carousel\Carousel\obj\Debug\netstandard2.0\Carousel.pdb
