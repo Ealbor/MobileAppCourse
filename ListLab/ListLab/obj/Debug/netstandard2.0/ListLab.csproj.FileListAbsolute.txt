@@ -1,0 +1,12 @@
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\ListLab.csproj.CoreCompileInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\ListLab.AssemblyInfoInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\ListLab.AssemblyInfo.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\ListLab.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\ListLab.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\bin\Debug\netstandard2.0\ListLab.deps.json
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\bin\Debug\netstandard2.0\ListLab.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\bin\Debug\netstandard2.0\ListLab.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\ListLab\ListLab\obj\Debug\netstandard2.0\ListLab.csprojAssemblyReference.cache

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListLab.MainPage"
+             BackgroundImageSource="https://fsb.zobj.net/crop.php?r=qSppDPdcsEoch5aRQTynWNeTF7bxwHNLsuT0rELmNUy_v8GFRAK7hDNZVqsxSFh_5yMrlLlYKaEOAou3Ajqgr5NBjaC9zJyPgDOFVU5QOWg8P_V5jojW8OiR3OxW4VNmwgtp4Dee0nhK8DTFg-iMvZffFZ36K_qm26MJhpZNdSn7exgu_IdTRnD1Y_hUPGXNsrtutBUcrD6lFBBf">
+    <!--<StackLayout Margin="20,35,20,20">-->
+
+        <Grid Padding="10"
+              Margin="20,20,20,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="250"></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+            
+            
+        <ListView 
+              SelectionMode="None"
+              Grid.Row="0"
+              Grid.Column="0"
+              ItemsSource="{Binding Question}"
+              BackgroundColor="Accent">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <!--These definitions are defining what each cell will be like. We will only need text inside each cell.-->
+                            <Grid Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                
+                                <Label 
+                                    Grid.Row="0"    
+                                    Grid.Column="0"
+                               Text="{Binding Ques}"
+                                    FontSize="Title"
+                                    HorizontalTextAlignment="Center"
+                               FontAttributes="Bold" />
+                            
+                                <BoxView
+                                    Color="Black"
+                             Opacity=".5"
+                             Grid.Row="0"
+                             Grid.Column="0">   
+                                <BoxView.GestureRecognizers>
+                                    <SwipeGestureRecognizer Direction="Right" Command="{Binding NoCommand}" />
+                                    <SwipeGestureRecognizer Direction="Left" Command="{Binding YesCommand}" />
+                                </BoxView.GestureRecognizers>
+                            </BoxView>
+                        </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+         </ListView>
+
+        <Image 
+            Grid.Row="1"
+            Grid.Column="0"
+            Source="{Binding DisplayCharacter}"
+            HeightRequest="350"
+            WidthRequest="300"
+            />
+
+        <!--These settings for space are off. That's why I'm not seeing what I should be seeing.--> 
+        <Button 
+            Grid.Row="2"
+            Grid.Column="0"
+            BorderRadius="50"
+            Text="Restart" Command="{Binding NoCommand}"/>
+    </Grid>
+    
+    
+    <!--</StackLayout>-->
+</ContentPage>
