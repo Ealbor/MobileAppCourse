@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="JokeApp.Views.JokePage">
+    <ContentPage.Content>
+        <StackLayout Margin="20" VerticalOptions="StartAndExpand">
+            <Label Text="Joke Name" />
+            <Entry Text="{Binding JokeName}" />
+            <Label Text="Joke Details" />
+            <Entry Text="{Binding JokeDetails}" />
+            <Label Text="Joke Told" />
+            <Switch IsToggled="{Binding JokeTold}" />
+            <Button Text="Save" Clicked="OnSaveClicked" />
+            <Button Text="Delete" Clicked="OnDeleteClicked" />
+            <Button Text="Cancel" Clicked="OnCancelClicked" />
+            <!--<Button Text="Speak" Clicked="OnSpeakClicked" />-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

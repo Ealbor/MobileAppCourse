@@ -1,0 +1,14 @@
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\bin\Debug\netstandard2.0\JokeApp.deps.json
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\bin\Debug\netstandard2.0\JokeApp.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\JokeApp.csprojAssemblyReference.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\JokeApp.AssemblyInfoInputs.cache
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\JokeApp.AssemblyInfo.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\Views\JokePage.xaml.g.cs
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\bin\Debug\netstandard2.0\ref\JokeApp.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\bin\Debug\netstandard2.0\JokeApp.pdb
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\JokeApp.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\ref\JokeApp.dll
+C:\Users\emalb\Desktop\Mobile Dev\MobileRepository\MobileAppCourse\JokeApp\JokeApp\obj\Debug\netstandard2.0\JokeApp.pdb
