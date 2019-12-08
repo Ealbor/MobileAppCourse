@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FinalProject.Views.NewRecipePage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked" />
+        <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="20" Padding="15">
+
+                <Label Text="Recipe Name:" FontSize="Medium" />
+                <Entry Text="{Binding Recipe.Title}" d:Text="Item name" FontSize="Small" />
+
+                <Label Text="Vegetarian?" FontSize="Medium" />
+                <Editor Text="{Binding Recipe.Vegetarian}" d:Text="Item description" FontSize="Small" Margin="0" />
+            
+                <Label Text="Price per Serving" FontSize="Medium" />
+                <Editor Text="{Binding Recipe.PricePerServing}" d:Text="Item description" FontSize="Small" Margin="0" />
+
+                <Label Text="Minutes to ready:" FontSize="Medium" />
+                <Editor Text="{Binding Recipe.ReadyInMinutes}" d:Text="Item description" FontSize="Small" Margin="0" />
+
+                <Label Text="Minutes to prepare:" FontSize="Medium" />
+                <Editor Text="{Binding Recipe.PreparationMinutes}" d:Text="Item description" FontSize="Small" Margin="0" />
+
+                <Label Text="Minutes to Cook:" FontSize="Medium" />
+                <Editor Text="{Binding Recipe.CookingMinutes}" d:Text="Item description" FontSize="Small" Margin="0" />
+
+                <Label Text="Instructions:" FontSize="Medium" />
+                <Editor Text="{Binding Recipe.Instructions}" d:Text="Item description" FontSize="Small" Margin="0" />
+
+                
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

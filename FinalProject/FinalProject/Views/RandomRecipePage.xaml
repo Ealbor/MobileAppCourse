@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FinalProject.Views.RandomRecipePage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Shake to Randomize" />
+    </ContentPage.ToolbarItems>
+
+
+<!--NEEDS NEW REFRESH COMMAND @20-->
+
+    <StackLayout>
+        <ListView x:Name="RecipesListView"
+                  ItemsSource="{Binding recipes}"
+                VerticalOptions="FillAndExpand"
+                HasUnevenRows="true"
+                RefreshCommand="{Binding LoadItemsCommand}"
+                IsPullToRefreshEnabled="true"
+                IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                CachingStrategy="RecycleElement"
+                ItemSelected="OnRecipeSelected">
+
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            
+                            <Label Text="{Binding title}" 
+                                d:Text="{Binding .}"
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="20"
+                                   FontAttributes="Bold"/>
+
+                            <Label Text="Total Minutes Needed to Cook: " VerticalTextAlignment="Center"
+                                   HorizontalOptions="Start"
+                                   ></Label>
+                            <Label Text="{Binding cookingMinutes}" 
+                                   VerticalTextAlignment="Center"
+                                   HorizontalOptions="Start"
+                                   d:Text="Recipe description"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13"
+                                   FontAttributes="Italic"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

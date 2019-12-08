@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FinalProject.Views.RecipeDetailPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView>
+            <Grid Margin="20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                    
+
+
+                    <Label Text="Recipe Name:" Grid.Row="0" Grid.Column="0" FontSize="30" />
+                <Label Text="{Binding Recipe.title}" Grid.Row="0" Grid.Column="1" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+
+                <Label Text="Vegetarian Friendly:" Grid.Row="1" Grid.Column="0" FontSize="30" />
+                    <Label Text="{Binding Recipe.vegetarian}" Grid.Row="1" Grid.Column="1" FontSize="20" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <Label Text="Servings:" Grid.Row="2" Grid.Column="0" FontSize="30" />
+                    <Label Text="{Binding Recipe.servings}" Grid.Row="2" Grid.Column="1" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+
+                <Label Text="Price Per Serving:" Grid.Row="3" Grid.Column="0" FontSize="30" />
+                    <Label Text="{Binding Recipe.pricePerServing}" Grid.Row="3" Grid.Column="1" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+
+                <Label Text="Preparation Time in Min:" Grid.Row="4" Grid.Column="0" FontSize="30" />
+                    <Label Text="{Binding Recipe.preparationMinutes}" Grid.Row="4" Grid.Column="1" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+
+                <Label Text="Cook Time:" Grid.Row="5" Grid.Column="0" FontSize="30" />
+                    <Label Text="{Binding Recipe.cookingMinutes}" Grid.Row="5" Grid.Column="1" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+
+                <Label Text="Ready in Min:" Grid.Row="6" Grid.Column="0" FontSize="30" />
+                    <Label Text="{Binding Recipe.readyInMinutes}" Grid.Row="6" Grid.Column="1" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+
+
+                    <Label Text="Source:" Grid.Row="7" Grid.Column="0" FontSize="30" />
+                    <Button Text="{Binding Recipe.sourceUrl}" Clicked="takeToSite" TextColor=" #d6d7d7" Grid.Row="7" Grid.Column="1" FontSize="0" />
+                    
+                
+                
+                    <StackLayout Grid.Row="8" Grid.ColumnSpan="2" Margin="10" BackgroundColor="#747C92">
+                        <StackLayout BackgroundColor="#A1E8AF" Margin="15" >
+                <Label Text="Instructions"  FontSize="30" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+            <Label Text="{Binding Recipe.instructions}"  FontSize="20" HorizontalOptions="CenterAndExpand" Margin="10"/>
+                    </StackLayout>
+                    </StackLayout>
+                </Grid>
+
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>
+
+
