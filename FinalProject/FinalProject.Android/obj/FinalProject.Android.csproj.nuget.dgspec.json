@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj": {}
+    "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj": {
+    "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
+        "projectUniqueName": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
         "projectName": "FinalProject.Android",
-        "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
+        "projectPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
         "packagesPath": "C:\\Users\\emalb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\obj\\",
+        "outputPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
-                "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj"
+              "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
+                "projectPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\emalb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\obj\\",
+        "outputPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -130,7 +130,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

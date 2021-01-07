@@ -1092,11 +1092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.iOS\\FinalProject.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.iOS\\FinalProject.iOS.csproj",
       "projectName": "FinalProject.iOS",
-      "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.iOS\\FinalProject.iOS.csproj",
+      "projectPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.iOS\\FinalProject.iOS.csproj",
       "packagesPath": "C:\\Users\\emalb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.iOS\\obj\\",
+      "outputPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1117,8 +1117,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
-              "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj"
+            "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
+              "projectPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj"
             }
           }
         }

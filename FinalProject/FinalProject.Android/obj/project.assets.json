@@ -1968,11 +1968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
+      "projectUniqueName": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
       "projectName": "FinalProject.Android",
-      "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
+      "projectPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\FinalProject.Android.csproj",
       "packagesPath": "C:\\Users\\emalb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject.Android\\obj\\",
+      "outputPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1993,8 +1993,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
-              "projectPath": "C:\\Users\\emalb\\Desktop\\Mobile Dev\\MobileRepository\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj"
+            "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj": {
+              "projectPath": "C:\\Users\\emalb\\SchoolProject\\MobileAppCourse\\FinalProject\\FinalProject\\FinalProject.csproj"
             }
           }
         }
